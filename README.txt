@@ -3,7 +3,7 @@ This is an android game, created by me in processing. This was my first side-pro
 
 
 PREMISE
-The game presents 3 bubbles on the screen of which one is randomnly determined to be bad.
+The game presents 3 bubbles on the screen of which one is randomly determined to be bad.
 Clicking the bad one will result in Failure and the end screen will be shown.
 Clicking a good bubble will increase the score and present a new set of three bubbles.
 This goes on until the user fails.
