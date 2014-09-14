@@ -1,5 +1,5 @@
 INTRODUCTION
-This is an android game, created by me in processing. This was my first side-project in android, which was a great help in learning the fundamentals.
+This is an android game, created in processing. This was my first side-project in android, which was a great help in learning the fundamentals.
 
 
 PREMISE
@@ -11,8 +11,8 @@ Retry button is on the top left corner of the screen.
 
 
 Future Reference
-I had plans to set up some statistical information using successive probability to display the odds at each try, but its not important now.
-Add more dynamic nature to scoring system
+-Add statistical information using successive probability to display odds at every turn.
+-Add more dynamic nature to scoring system.
 
 
 The apk can be found at https://www.dropbox.com/s/einu9qcf3grixmc/Bubble.apk
