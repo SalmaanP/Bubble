@@ -10,9 +10,12 @@ This goes on until the user fails.
 Retry button is on the top left corner of the screen.
 
 
-Future Reference
+Future Improvements
 -Add statistical information using successive probability to display odds at every turn.
 -Add more dynamic nature to scoring system.
+-Drastically improve UI
 
 
 The apk can be found at https://www.dropbox.com/s/einu9qcf3grixmc/Bubble.apk
+
+Available on Amazon app store at http://www.amazon.com/Salmaan-Pehlari-Bubble-Luck/dp/B00SLB5HW6/
